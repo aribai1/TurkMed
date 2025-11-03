@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Yeseva+One&display=swap');
+.header{
+    background-color: #3CB2B2;
+}
+.head-box{
+    display: flex;
+    justify-content: center;
+}
+.head-box p{
+    color: #BFD2F8;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+.head-box ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    color: #FCFEFE;
+    gap: 32px;
+}
+.svg{
+    padding: 19px 0 0 302px ;
+}
+.sec1{
+    background: url("image/Rectangle 3 (4).png") no-repeat;
+    height: 250px;
+    padding: 1px;
+}
+.sec1-box h1{
+    font-family: "Yeseva One", sans-serif;
+    font-size: 48px;
+    color: #1F2B6C;
+    text-align: start;
+    padding: 60px 0 0 197px;
+}
+.sec2{
+    background: #FFFFFF;
+}
+.sec2-card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.sec2-h{
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    color: #159EEC;
+    text-align: center;
+}
+.sec2-box h1{
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+    color: #3CB2B2;
+    text-align: center;
+}
+.sec2-card_1{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.sec2-phone_number{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec2_call-1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.sec2_call-2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.sec2-card_2{
+    background: #3CB2B2;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.sec2-address{
+    color: #BFD2F8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec2-location{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #BFD2F8;
+}
+.sec2-card_3{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.email{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.email-1{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+.email-2{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+}
+.sec2-card_4{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.chart{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.week{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.weekend{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}

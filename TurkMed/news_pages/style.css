@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Yeseva+One&display=swap');
+.header{
+    background-color: #3CB2B2;
+}
+.head-box{
+    display: flex;
+    justify-content: center;
+}
+.head-box p{
+    color: #BFD2F8;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+.head-box ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    color: #FCFEFE;
+    gap: 32px;
+}
+.svg{
+    padding: 19px 0 0 302px ;
+}
+.sec1{
+    background: url("image/Rectangle 3 (5).png") no-repeat;
+    padding: 20px 0 100px 0 ;
+}
+.sec1-box h2{
+    font-family: "Yeseva One", sans-serif;
+    font-size: 48px;
+    color: #1F2B6C;
+    padding: 60px 0 0 50px;
+}
+.sec2{
+    background: #FAFDFE;
+    padding: 40px 0 0 0;
+}
+.sec2-box{
+    text-align: center;
+    justify-content: center;
+}
+.sec2-box h2{
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+    color: #3CB2B2;
+}
+.sec2-card{
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+.sec2-card_top{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.sec2-card_bottom{
+    padding-top: 20px;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.sec2-card_top-left{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec2-card_top-right{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec2-card_bottom-left{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec2-card_bottom-right{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec2-p_info{
+    color: #159EEC;
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+}
+.sec2-des{
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    color: #212124;
+}
+.p-sec2{
+    color: #159EEC;
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+}

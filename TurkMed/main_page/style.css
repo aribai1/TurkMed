@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Yeseva+One&display=swap');
+.header{
+    background-color: #3CB2B2;
+}
+.head-box{
+    display: flex;
+    justify-content: center;
+}
+.head-box p{
+    color: #BFD2F8;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+.head-box ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    color: #FCFEFE;
+    gap: 32px;
+}
+.svg{
+    padding: 19px 0 0 302px ;
+}
+.foto{
+    background: url("image/Rectangle 4 (1).png") no-repeat;
+    width: 1366px;
+    height: 550px;
+}
+.sec1{
+    background: url("image/Rectangle 3.png") no-repeat;
+    width: 1366px;
+    height: 550px;
+    padding: 1px 0 100px 0;
+}
+.sec1-box{
+    padding: 167px 0 0 186px;
+}
+.sec1-box h2{
+    color: #00517E;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec1-box h1{
+    color: #0082AC;
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 48px;
+}
+.sec1-box button{
+    background-color: #BFD2F8;
+    border-radius: 50px;
+    border: none;
+    width: 255px;
+    height: 45px;
+    color: #1F2B6C;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+.sec2{
+    background: white;
+    text-align: center;
+    justify-content: center;
+}
+.sec2-box h3{
+    color: #159EEC;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec2-box h2{
+    color: #3CB2B2;
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+}
+.sec2-box p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+.sec2-p{
+    color: #159EEC;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+.sec3-box h1{
+    text-align: center;
+    color: #3CB2B2;
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+}
+.sec3-card_right p{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_right h2{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_right button{
+    background-color: #3CB2B2;
+    width: 317px;
+    height: 46px;
+    color: #BFD2F8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+}
+.sec3-card_rightback{
+    background-color: #BFD2F8;
+    width: 317px;
+    height: 160px;
+    padding: 1px 0 0px 0;
+}
+.sec3-card_center p{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_center h2{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_center button{
+    background-color: #3CB2B2;
+    width: 317px;
+    height: 46px;
+    color: #BFD2F8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+}
+.sec3-card_centerback{
+    background-color: #BFD2F8;
+    width: 317px;
+    height: 160px;
+    padding: 1px 0 0px 0;
+}
+.sec3-card_left p{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_left h2{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec3-card_left button{
+    background-color: #3CB2B2;
+    width: 317px;
+    height: 46px;
+    color: #BFD2F8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+}
+.sec3-card_leftback{
+    background-color: #BFD2F8;
+    width: 317px;
+    height: 160px;
+    padding: 1px 0 0px 0;
+}
+.sec3-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 21px;
+}
+.sec3{
+    padding: 79px 0 0 0;
+}
+.sec4{
+    background: #FAFDFE;
+    padding: 80px 0 0 0;
+}
+.sec4-box{
+    text-align: center;
+    justify-content: center;
+}
+.sec4-box h2{
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+    color: #3CB2B2;
+}
+.sec4-card{
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+.sec4-card_top{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.sec4-card_top-left{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec4-card_top-right{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec4-card_bottom{
+    padding-top: 20px;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.sec4-card_bottom-left{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec4-card_bottom-right{
+    width: 486px;
+    height: 154px;
+    display: flex;
+    background: #FCFEFE;
+    box-shadow: #0000000D 5px 5px 5px;
+}
+.sec4-p_info{
+    color: #159EEC;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+}
+.sec4-des{
+    color: #212124;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec4-card_button{
+    width: 150px;
+    height: 45px;
+    background: #3CB2B2;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+.sec5{
+    background: #FFFFFF;
+}
+.sec5-card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.sec5-box h2{
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 32px;
+    color: #3CB2B2;
+    text-align: center;
+}
+.sec5-card_1{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.sec5-phone_number{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec5_call-1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.sec5_call-2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.sec5-card_2{
+    background: #3CB2B2;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.sec5-address{
+    color: #BFD2F8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.sec5-location{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #BFD2F8;
+}
+.sec5-card_3{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.email{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.email-1{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+.email-2{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+}
+.sec5-card_4{
+    background: #BFD2F8;
+    width: 233px;
+    height: 233px;
+    border-radius: 5px;
+    padding: 100px 15px 15px 15px;
+}
+.chart{
+    color: #3CB2B2;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.week{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+.weekend{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #3CB2B2;
+}
+
+
+
+
